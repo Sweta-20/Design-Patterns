@@ -1,0 +1,4 @@
+C:\Users\sweta\source\repos\practical-25\practical-25\obj\Debug\net5.0\practical-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweta\source\repos\practical-25\practical-25\obj\Debug\net5.0\practical-25.AssemblyInfoInputs.cache
+C:\Users\sweta\source\repos\practical-25\practical-25\obj\Debug\net5.0\practical-25.AssemblyInfo.cs
+C:\Users\sweta\source\repos\practical-25\practical-25\obj\Debug\net5.0\practical-25.csproj.CoreCompileInputs.cache
